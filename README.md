@@ -7,6 +7,9 @@ Analyze Pokémon statistics to identify patterns and predict offensive power.
 ## Dataset
 Source: Kaggle — Pokémon Dataset (800 Pokémon)
 
+## EDA:
+https://cmorregof.github.io/Pokemon_clustermon/pokemon_eda_report.html
+
 ## Methods
 - EDA
 - Missing value imputation
